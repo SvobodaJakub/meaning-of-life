@@ -14,10 +14,12 @@ Quotes are intellectual property of their respective authors and are copied in t
 
 ## Formats
 
-* [HTML](https://svobodajakub.gitbooks.io/meaning-of-life/)
+* [Multi-page HTML web](https://svobodajakub.gitbooks.io/meaning-of-life/)
 * [PDF](https://www.gitbook.com/download/pdf/book/svobodajakub/meaning-of-life)
 * [Mobi](https://www.gitbook.com/download/mobi/book/svobodajakub/meaning-of-life)
 * [ePub](https://www.gitbook.com/download/epub/book/svobodajakub/meaning-of-life)
+* [GitHub page](https://github.com/SvobodaJakub/meaning-of-life)
+* [Git](git@github.com:SvobodaJakub/meaning-of-life.git)
 
 
 
