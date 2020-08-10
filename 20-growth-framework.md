@@ -1,4 +1,4 @@
-## Growth Framework
+# Growth Framework
 
 Inspired by Tim Urban's article [http://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html](http://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html), I created my growth framework. I use it to track wishes, needs, and progress on my path on and towards my meaning of life. It is highly personal and personality-specific. These categories work for me:
 

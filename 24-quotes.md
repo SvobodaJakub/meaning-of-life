@@ -1,4 +1,4 @@
-## Quotes
+# Quotes
 
 "Imagination cannot grasp simple nothingness and must therefore fill the void with fantasies, as in experiments with sensory deprivation where subjects are suspended weightlessly in sound- and light-proof rooms. When death is considered the final victory of Black over White in the deadly serious battle of "White must win," the fantasies which fill the void are largely ghoulish. Even our popular fantasies of Heaven are on the grim side (...)."
 

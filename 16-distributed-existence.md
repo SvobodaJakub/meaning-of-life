@@ -1,4 +1,4 @@
-## Distributed Mind and Existence After Death
+# Distributed Mind and Existence After Death
 
 
 

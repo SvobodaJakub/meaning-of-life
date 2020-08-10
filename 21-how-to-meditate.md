@@ -1,4 +1,4 @@
-## How to Meditate
+# How to Meditate
 
 This is my own take on meditation, I'm not saying this is the best way.
 

@@ -1,6 +1,6 @@
-## Living This One Life, Not Cramming in Three Lives at the Same Time
+# Living This One Life, Not Cramming in Three Lives at the Same Time
 
-### Year 2016
+## Year 2016
 
 This is related to not running away from this place, reality, thoughts, people, feelings, by occupying myself through frenetic activity.
 
@@ -19,7 +19,7 @@ The third step (learning to be at peace with whatever limited amount of things I
 All in all, learning to be at peace with this one life and with my limited abilities and time fits into a nice feedback loop with the search for a meaning of life — having found some meaning of life is necessary for me to be at peace with it and being at peace frees up energy to pursue meaningful activities.
 
 
-### Year 2020
+## Year 2020
 
 So far, I like this path.
 

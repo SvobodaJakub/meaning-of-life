@@ -1,4 +1,4 @@
-## Personal Take on the Meaning of Life
+# Personal Take on the Meaning of Life
 
 I can't definitely know whether there is god and what god is on all levels of meaning. I know there is wind, and trees, and stars, and whole lot of matter in the universe. I'm just a small lump of matter. I'm just a small lump of matter that is somehow special in its arrangement from the majority of matter in that I am aware of something. I have my own priorities and will and I find my own meaning in the existence. I have some information already encoded in me, and also in other people, probably by the way I (and we) came into existence. How that came to be, I don't know and I will probably never know.
 

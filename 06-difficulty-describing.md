@@ -1,4 +1,4 @@
-## Difficulty in Describing the Meaning of Life
+# Difficulty in Describing the Meaning of Life
 
 
 

@@ -1,6 +1,6 @@
 # Meaning of Life
 
-## License
+# License
 
 2015-2017, 2020
 
@@ -12,17 +12,16 @@ Quotes are intellectual property of their respective authors and are copied in t
 
 
 
-## Formats
+# Formats
 
-* [Multi-page HTML web](https://svobodajakub.gitbooks.io/meaning-of-life/)
-* [PDF](https://www.gitbook.com/download/pdf/book/svobodajakub/meaning-of-life)
-* [Mobi](https://www.gitbook.com/download/mobi/book/svobodajakub/meaning-of-life)
-* [ePub](https://www.gitbook.com/download/epub/book/svobodajakub/meaning-of-life)
+* [Multi-page HTML web](https://svobodajakub.gitbook.io/meaning-of-life/)
 * [GitHub page](https://github.com/SvobodaJakub/meaning-of-life)
+* [PDF](https://raw.githubusercontent.com/SvobodaJakub/meaning-of-life/master/meaning-of-life.pdf)
+* [epub](https://raw.githubusercontent.com/SvobodaJakub/meaning-of-life/master/meaning-of-life.epub)
 
 
 
-## Introduction
+# Introduction
 
 My theory does not have to be objectively flawless because I mostly use it from my subjective point of view. However, it should be good enough to withstand confrontation with reality for the rest of my life. 
 

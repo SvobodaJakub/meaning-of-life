@@ -1,4 +1,4 @@
-## Finding Peace
+# Finding Peace
 
 I find peace through the realization of the impermanence of everything, of my and everyone's mortality, of uncertainty of whatever happens in the future, through the realization that there is ultimately nothing to be gained from life, except for the experience itself and for the chance to give, nurture, and receive love, through the realization that similar experiences to mine and the I-feeling that illusorily seems special to me will again and again spark in newly born children, as they exist in other people, and again and again love, wonder, and happiness will be rediscovered; I find peace in the hope that in the future more and more people might realize this connectedness and work towards understanding and peace with love, not with war; last but not least I find peace in knowing that I, just as any other being, have a certain amount of power to help peace, and in knowing that things I did wrong or could have done better in the past were done with an older set of knowledge and skillfulness, yet today are judged with today's knowledge and skillfulness, and this will repeat.
 

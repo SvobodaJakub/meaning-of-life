@@ -1,4 +1,4 @@
-## Not Running Away
+# Not Running Away
 
 Wherever I go, my memories and thought patterns go with me. Whatever activity I choose to do can be so chosen (possibly subconsciously) as to muffle the sound of those thoughts I don't want to hear; but that can be only temporary.
 

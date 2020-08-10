@@ -11,6 +11,9 @@ node_modules
 _book
 
 # eBook build output
-*.epub
+#*.epub
 *.mobi
-*.pdf
+#*.pdf
+
+*.mdr
+
