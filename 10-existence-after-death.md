@@ -2,8 +2,8 @@
 
 
 
-*   The closest to having a continuing mental existence after death is in others' thoughts.
-    *   It shares some qualities - is in the minds of other beings of the same species, is a mental process, affects decision making.
+*   The closest to having a continuing mental existence after death is in the thoughts of others.
+    *   It shares some qualities: it is in the minds of other beings of the same species, it is a mental process, it affects decision making.
     *   The original I-feeling and the original I-feeler are lost and new ones are there instead.
 *   It can provide meaning during life.
     *   Let it be good thoughts.

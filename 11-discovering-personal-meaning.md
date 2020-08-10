@@ -2,8 +2,8 @@
 
 
 
-*   If every life has only the purpose of one's goal being finished and the goal only being done for the (living) others, then it is purposeless to them (except for finishing their own goals), and hence is circularly purposeless.
-*   If every life has only the purpose of one's goal being finished, without regards for own happiness and feelings during life, then it is in conflict with its nature (seeking happiness, avoiding pain and death, among other things).
+*   If every life has only the purpose of one's goal being finished and the goal only being done for the (living) others, then it is circularly purposeless.
+*   If every life has only the purpose of one's goal being finished, without regards for one's own happiness and feelings during life, then it is in conflict with its nature (seeking happiness, avoiding pain and death, among other things).
     *   Generally life is purposeless except for the goal of continuation of life; because at some level of understanding life is only a self-propagating process beginning with very simple structures.
     *   At the level of decision making in live agents, there is not only the sole goal of continuation of life.
 *   The personal meaning of life is to pretend there is a goal, to make that goal mean or do something for self or others, and to take actions based on feelings.

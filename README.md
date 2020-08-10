@@ -2,7 +2,7 @@
 
 ## License
 
-2015-2017
+2015-2017, 2020
 
 ![icon for the cc-by-sa 4.0 license](cc-license-icon-by-sa-4.0-88x31.png)
 

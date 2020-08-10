@@ -17,5 +17,5 @@ Necessary things to realize:
 *   My mind shapes my view of the world.
 *   My thought patterns, mental problems and healthy parts of my mind determine how I interact with the world and filter the people I (can) interact with.
 
-Last but not least, a special way of running away - running away while staying at the same place - is the act of ignoring a crucial part of reality (e.g. a responsibility) and is toxic to the people around me.
+Last but not least, a special way of running away — running away while staying at the same place — is the act of ignoring a crucial part of reality (e.g. a responsibility) and is toxic to the people around me.
 
